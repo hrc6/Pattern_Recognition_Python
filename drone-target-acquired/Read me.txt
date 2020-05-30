@@ -1,0 +1,3 @@
+Projeto de reconhecimento da TAG Python
+Código desenvolvido durante a disciplina de Interface Homem Máquina durante a graduação;
+O mesmo tem o objetivo de reconhecer uma tag (pre definida) e escanear por meio da web cam e localizar a tag ao vivo.
